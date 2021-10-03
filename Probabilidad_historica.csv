@@ -1,4 +1,4 @@
-Semana del semestre,Día de la semana,Software,Cantidad Estimada,Cantidad Total,Probabilidad
+Semana del semestre,Dia de la semana,Software,Cantidad Estimada,Cantidad Total,Probabilidad
 1,jueves,Classroom,1,6,0.16666666666666666
 1,jueves,Drive,1,6,0.16666666666666666
 1,jueves,Excel,1,6,0.16666666666666666
@@ -84,7 +84,7 @@ Semana del semestre,Día de la semana,Software,Cantidad Estimada,Cantidad Total,
 4,miércoles,Ninguno,0,8,0.0
 4,miércoles,R,2,8,0.25
 4,miércoles,SAP,1,8,0.125
-4,miércoles,"Zoom, Big Blue Button & Google Meets",1,8,0.125
+"4,miércoles,""Zoom, Big Blue Button & Google Meets"",1,8,0.125"
 4,sábado,Moodle,1,3,0.3333333333333333
 4,sábado,Ninguno,0,3,0.0
 4,sábado,R,1,3,0.3333333333333333
@@ -92,7 +92,7 @@ Semana del semestre,Día de la semana,Software,Cantidad Estimada,Cantidad Total,
 4,viernes,Excel,1,5,0.2
 4,viernes,Ninguno,0,5,0.0
 4,viernes,SAP,3,5,0.6
-4,viernes,"Zoom, Big Blue Button & Google Meets",1,5,0.2
+"4,viernes,""Zoom, Big Blue Button & Google Meets"",1,5,0.2"
 5,jueves,Acess,2,2,1.0
 5,jueves,Ninguno,0,2,0.0
 5,lunes,Excel,1,4,0.25
@@ -107,7 +107,7 @@ Semana del semestre,Día de la semana,Software,Cantidad Estimada,Cantidad Total,
 5,miércoles,Ninguno,0,5,0.0
 5,miércoles,Python,1,5,0.2
 5,miércoles,R,1,5,0.2
-5,miércoles,"Zoom, Big Blue Button & Google Meets",1,5,0.2
+"5,miércoles,""Zoom, Big Blue Button & Google Meets"",1,5,0.2"
 5,sábado,Google Classroom,1,4,0.25
 5,sábado,Microsoft Project,1,4,0.25
 5,sábado,Ninguno,0,4,0.0
